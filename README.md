@@ -1,6 +1,6 @@
 
 
-# README Automation Program
+# Code Quiz Game!
 # License: MIT ![GitHub](https://img.shields.io/github/license/MatthewMoraga/README_Generator) https://www.mit.edu/~amini/LICENSE.md 
 
 ## Table of Contents
@@ -12,17 +12,17 @@
 * [Contact](#contact)
 
 ## Installation
-n/a
+none
 ## Description
-a program that automates the process of generating README files to make life easier
+a quiz game to test your knowledge of coding.
 ## Usage
-same as description
+a game that has a timer with timer bar for flair, it also adds and keeps track of score, so that at the end you can see it.
 ## Contributions
-n/a
+none
 ## Testing
-n/a
+none
 
 # Contact
-* GitHub: GitHub Link
-* LinkedIn: LinkedIn Link
-* E-mail Address: Email
+* GitHub: none
+* LinkedIn: none
+* E-mail Address: none
